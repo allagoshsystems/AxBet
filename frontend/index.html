@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#050b16">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>AXBET | Cricket</title>
+<link rel="icon" href="logo.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="splash" class="splash" aria-label="AXBET loading">
+  <div class="splashCard">
+    <img src="logo.png" class="splashLogo" alt="AXBET">
+    <img src="loading.gif" class="loadingGif" alt="Loading">
+    <div class="loader"><span></span></div>
+    <p>Loading AXBET</p>
+  </div>
+</div>
+
+<div id="authGate" class="authGate" aria-modal="true">
+  <div class="authCard">
+    <div class="authBrand"><img src="logo.png" class="authLogo" alt="AXBET"><div><strong>AXBET</strong><small>Cricket Experience</small></div></div>
+    <div class="authCopy">
+      <span class="eyebrow">ACCOUNT REQUIRED</span>
+      <h1>Welcome to AXBET</h1>
+      <p>Sign in to continue or create your AXBET account.</p>
+    </div>
+    <div class="authGateActions">
+      <button id="gateLogin" class="primary" type="button">Login</button>
+      <button id="gateRegister" class="secondary" type="button">Create Account</button>
+    </div>
+    <div class="authFeatures"><span>🔐 Secure account</span><span>📱 All devices</span><span>⚡ Fast access</span></div>
+    <small class="gateNote">Your account is required before accessing the application.</small>
+  </div>
+</div>
+
+<div class="appFrame">
+<header class="top">
+  <div class="brand"><img src="logo.png" alt="AXBET"><div><span>AXBET</span><small>CRICKET</small></div></div>
+  <div class="topActions">
+    <span id="connection" class="connection">Checking</span>
+    <button id="refresh" class="iconBtn" aria-label="Refresh matches">↻</button>
+    <button id="balanceBtn" class="wallet" aria-label="Open profile and balance">PKR <span id="balance">0</span></button>
+    <button id="search" class="iconBtn" aria-label="Search">⌕</button>
+  </div>
+</header>
+
+<section id="authBar" class="authBar hidden"></section>
+
+<nav class="tabs" aria-label="Event filters">
+  <button class="active" data-filter="all">All</button>
+  <button data-filter="live">Live</button>
+  <button data-filter="upcoming">Upcoming</button>
+  <button data-filter="cricket">🏏 Cricket</button>
+</nav>
+
+<main>
+  <section class="hero">
+    <div><small>CRICKET</small><h1>AXBET</h1><p>Live information, upcoming events and your account in one place.</p><div class="heroPills"><span>Live-ready</span><span>Responsive</span><span>Firebase connected</span></div></div>
+    <img src="logo.png" alt="AXBET logo">
+  </section>
+  <div class="contentGrid">
+    <section class="panelSection seriesSection"><div class="heading"><h2>Series</h2><span>Browse</span></div><div id="series" class="series"></div></section>
+    <section class="panelSection eventsSection"><div class="heading"><h2>Top Events</h2><span id="count"></span></div><div id="events"></div></section>
+  </div>
+</main>
+</div>
+
+<nav class="bottom" aria-label="Main navigation">
+<button class="active" data-page="popular">⌂<small>Popular</small></button>
+<button data-page="favorites">☆<small>Favorites</small></button>
+<button data-page="betslip">▣<small>Bet Slip</small></button>
+<button data-page="account">◉<small>Profile</small></button>
+</nav>
+
+<div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+  <div id="modalbox" class="modalbox">
+    <button id="close" class="close" aria-label="Close">×</button>
+    <div id="modalLogoWrap"><img src="logo.png" class="modalLogo" alt="AXBET"></div>
+    <h2 id="mtitle"></h2>
+    <div id="mbody"></div>
+  </div>
+</div>
+<script>
+(function(){
+  function hideSplash(){
+    var s=document.getElementById("splash");
+    if(s)s.classList.add("hidden");
+  }
+  window.addEventListener("load",function(){setTimeout(hideSplash,700);});
+  document.addEventListener("DOMContentLoaded",function(){setTimeout(hideSplash,1500);});
+  setTimeout(hideSplash,3500);
+})();
+window.addEventListener("error",function(e){
+  var s=document.getElementById("splash");
+  if(s){s.classList.add("hidden");}
+  console.error("AXBET boot error:",e.error||e.message);
+});
+</script>
+<script type="module" src="app.js"></script>
+</body>
+</html>

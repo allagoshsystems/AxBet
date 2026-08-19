@@ -1,0 +1,23 @@
+{
+  "project_info": {
+    "project_number": "910584871383",
+    "project_id": "axbetorg",
+    "storage_bucket": "axbetorg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910584871383:android:2ba95c9dc4ce007dc17392",
+        "android_client_info": {
+          "package_name": "com.axbet.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPEUEbyQTxZmlHExSqQMYqJZiM1p9fY8"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
