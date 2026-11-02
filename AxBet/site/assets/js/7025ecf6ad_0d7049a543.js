@@ -1,0 +1,1 @@
+import{DEFAULT_BANNER_WIDGET_MAIN_LOYALTY_PROGRAM_CONFIG as t,defineMultiImplementedFeature as i,Platforms as e}from"./entry-71448bd4ec.js";const o={...t},_={defineEntityImplementation:n=>n};i("BannerWidgetMainConfig",!0,[e.Desktop,e.Mobile]);const a=_.defineEntityImplementation(()=>({config:o}));export{a as default};

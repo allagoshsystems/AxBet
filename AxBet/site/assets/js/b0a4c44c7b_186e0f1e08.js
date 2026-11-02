@@ -1,0 +1,1 @@
+import{platformAppsProjectThemeNames as e}from"./67f37168c3.js";const t=Object.freeze({settings:e.default}),p=Object.freeze({settings:e.sz}),s=Object.freeze({settings:e.c22}),f=Object.freeze({settings:e.dc}),o=Object.freeze({settings:e.pp}),c=Object.freeze({[e.default]:t,[e.sz]:p,[e.c22]:s,[e.dc]:f,[e.pp]:o});export{c as platformAppsInfoFeatureThemes};

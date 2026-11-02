@@ -1,0 +1,1 @@
+import{usePopupModal as t}from"./69fbcbc28f.js";import{defineMultiImplementedFeature as n,Platforms as m}from"./6a77fbfb22.js";const s={defineEntityImplementation:e=>e};n("welcomeBonusModal",!0,[m.Desktop]);const u=s.defineEntityImplementation(()=>({showWelcomeBonusPopup:o=>{t(1,o)}}));export{u as default};

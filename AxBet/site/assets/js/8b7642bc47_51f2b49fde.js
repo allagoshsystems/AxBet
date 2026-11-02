@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as t,Platforms as p}from"./86b157a5b2.js";const s={defineEntityImplementation:e=>e};t("useDesktopAppsPageWrapperSettings",!0,[p.Desktop]);const o=s.defineEntityImplementation(()=>({showDesktopAppsNotice:!0}));export{o as default};

@@ -1,0 +1,1 @@
+import{iconName as t,sizeType as o}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const n={requiredAsteriskAccentColor:!0,buttonSlot:"afterContent",buttonIcon:t.CHECK,buttonIconSize:o.m,hasFloatingLabel:!1};export{n as REGISTRATION_FIELD_PHONE_CONFIRMATION_CONFIG_COMMON};

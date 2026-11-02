@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as e,Platforms as n}from"./entry-4d5baf0eaf.js";const o={},i={defineEntityImplementation:t=>t};e("BettingContentConfigDesktop",!0,[n.Desktop]);const s=i.defineEntityImplementation(()=>({styles:o}));export{s as default};

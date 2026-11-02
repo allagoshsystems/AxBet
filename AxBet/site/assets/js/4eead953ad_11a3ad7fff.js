@@ -1,0 +1,1 @@
+import{HEADER_NAVIGATION_LINKS_CONFIG_DESKTOP_DEFAULT as t}from"./c9ce35b5bd.js";import{defineMultiImplementedFeature as i,Platforms as n}from"./entry-cee1e86922.js";const o={defineEntityImplementation:e=>e};i("HeaderNavigationLinksConfigDesktop",!0,[n.Desktop]);const f=o.defineEntityImplementation(()=>({config:t}));export{f as default};

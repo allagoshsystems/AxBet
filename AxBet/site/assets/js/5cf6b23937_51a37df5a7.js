@@ -1,0 +1,1 @@
+import{themeType as e}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const t={uiSportsEvent:e.gray100,uiContentLoader:e.gray100,uiMarket:e.gray,favoriteListTheme:e.gray30};export{t as FAVORITES_APP_CONFIG_COMMON};

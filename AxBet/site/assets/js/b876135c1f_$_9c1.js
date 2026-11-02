@@ -1,0 +1,1 @@
+export default ()=>window._APP='__TOTO_APP__'

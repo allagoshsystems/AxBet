@@ -1,0 +1,1 @@
+import{SUP_HELPER_CONSULTANT_DEFAULT_PARAMS as n,defineMultiImplementedFeature as a,Platforms as e}from"./entry-cee1e86922.js";const o={defineEntityImplementation:t=>t};a("SupHelperConsultantParams",!0,[e.Desktop,e.Mobile]);const m=o.defineEntityImplementation(()=>n);export{m as default};

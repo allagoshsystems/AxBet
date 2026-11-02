@@ -1,0 +1,1 @@
+import{sizeType as e}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const a={eventLogoHasDivider:!1,eventLogoHasAdditionalGutter:!0,eventLogoSize:e.m,doubleRowLogo:!1,isVisibleNavigationBannerInHeaderTop:!1,isBlackIconGameLogo:!1};export{a as DEFAULT_HEADER_DESKTOP_DOUBLE_ROW_CONFIG};

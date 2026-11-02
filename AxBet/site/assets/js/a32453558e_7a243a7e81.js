@@ -1,0 +1,1 @@
+import{sizeType as o,themeType as e}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const i={uiIcoSize:o.s,uiDropdownTheme:e.gray100,uiSelectContentTheme:e.gray100,uiSelectOptionsTheme:e.gray100};export{i as MATCH_TAB_FILTER_CONFIG_COMMON};

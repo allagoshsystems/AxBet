@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as t,Platforms as o}from"./6a77fbfb22.js";const l={defineEntityImplementation:e=>e};t("useWelcomeSlotsModal",!0,[o.Desktop,o.Mobile]);const s=l.defineEntityImplementation(()=>({showWelcomeSlotsModal:()=>{}}));export{s as default};

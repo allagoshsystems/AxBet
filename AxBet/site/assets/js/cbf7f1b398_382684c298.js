@@ -1,0 +1,1 @@
+import{TOP_CHAMPS_APP_CONFIG_COMMON as e}from"./ca4dd394ac.js";import{defineMultiImplementedFeature as o,Platforms as p}from"./entry-4d5baf0eaf.js";const n={defineEntityImplementation:t=>t};o("TopChampsAppConfigDesktop",!0,[p.Desktop]);const f=n.defineEntityImplementation(()=>({config:e}));export{f as default};

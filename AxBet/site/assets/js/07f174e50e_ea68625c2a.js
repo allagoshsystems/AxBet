@@ -1,0 +1,1 @@
+import{ABOUT_APP_F_CONFIG_COMMON as n,defineMultiImplementedFeature as o,Platforms as t}from"./7f48a00853.js";const i={defineEntityImplementation:e=>e};o("AboutAppFConfig",!0,[t.Desktop,t.Mobile]);const f=i.defineEntityImplementation(()=>({config:n}));export{f as default};

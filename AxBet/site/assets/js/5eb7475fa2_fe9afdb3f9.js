@@ -1,0 +1,1 @@
+import{defineProvider as e}from"./entry-4d5baf0eaf.js";import{RIGHT_SIDE_CONFIG_COMMON as o}from"./10ee3b4134.js";const{provide:d,inject:f}=e(i=>i,o);export{d as createRightSideConfig,f as useRightSideConfig};

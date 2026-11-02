@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as n,Platforms as e}from"./entry-cee1e86922.js";const o={defineEntityImplementation:t=>t};n("OnPayLayoutThemes",!0,[e.Desktop,e.Mobile]);const s=o.defineEntityImplementation(()=>({hasHeader:!1,isFooterComponent:!1,isUnstretchable:!0}));export{s as default};

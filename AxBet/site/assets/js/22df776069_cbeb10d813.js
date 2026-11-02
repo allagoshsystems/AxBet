@@ -1,0 +1,1 @@
+import{LEFT_SIDE_APP_CONFIG_COMMON as t}from"./5d11829219.js";import{defineMultiImplementedFeature as i,Platforms as n}from"./entry-4d5baf0eaf.js";const o={defineEntityImplementation:e=>e};i("LeftSideAppConfigDesktop",!0,[n.Desktop]);const m=o.defineEntityImplementation(()=>({config:t}));export{m as default};

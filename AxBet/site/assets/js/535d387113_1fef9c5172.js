@@ -1,0 +1,1 @@
+import{APP_SETTINGS_TOOLBAR_CONFIG_DESKTOP_DEFAULT as e}from"./cefeffc8ff.js";import{defineMultiImplementedFeature as o,Platforms as n}from"./entry-cee1e86922.js";const i={defineEntityImplementation:t=>t};o("AppSettingsToolbarConfigDesktop",!0,[n.Desktop]);const f=i.defineEntityImplementation(()=>({config:e}));export{f as default};

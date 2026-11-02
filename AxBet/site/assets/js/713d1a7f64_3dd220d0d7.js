@@ -1,0 +1,1 @@
+import{MAIN_OTHER_GAMES_LAYOUT_THEMES as m,defineMultiImplementedFeature as n,Platforms as e}from"./entry-cee1e86922.js";const o={defineEntityImplementation:t=>t};n("OtherGamesLayoutThemes",!0,[e.Desktop,e.Mobile]);const i=o.defineEntityImplementation(()=>m);export{i as default};

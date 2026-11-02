@@ -1,0 +1,1 @@
+import{DASHBOARD_CONFIG_COMMON as e}from"./e5c89ff88f.js";import{defineMultiImplementedFeature as o,Platforms as n}from"./entry-4d5baf0eaf.js";const i={defineEntityImplementation:t=>t};o("DashboardConfigDesktop",!0,[n.Desktop]);const f=i.defineEntityImplementation(()=>({config:e}));export{f as default};

@@ -1,0 +1,1 @@
+import{USER_BONUS_DROPDOWN_CONFIG_DEFAULT as o}from"./5ff70090d1.js";import{defineMultiImplementedFeature as t,Platforms as n}from"./entry-cee1e86922.js";const i={defineEntityImplementation:e=>e};t("UserBonusDropdownConfig",!0,[n.Desktop]);const f=i.defineEntityImplementation(()=>({config:o}));export{f as default};

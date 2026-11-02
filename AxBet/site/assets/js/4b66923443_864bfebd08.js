@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as i,Platforms as e}from"./entry-4813b96a45.js";const n={defineEntityImplementation:t=>t};i("WidgetViewLayoutConfig",!0,[e.Desktop,e.Mobile]);const m=n.defineEntityImplementation(()=>({styles:{}}));export{m as default};

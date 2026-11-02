@@ -1,0 +1,1 @@
+import{FAVORITES_APP_CONFIG_COMMON as e}from"./51a37df5a7.js";import{defineMultiImplementedFeature as o,Platforms as n}from"./entry-4d5baf0eaf.js";const i={...e},p={defineEntityImplementation:t=>t};o("FavoritesAppConfigDesktop",!0,[n.Desktop]);const r=p.defineEntityImplementation(()=>({config:i}));export{i as config,r as default};

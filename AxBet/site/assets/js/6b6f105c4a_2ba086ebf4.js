@@ -1,0 +1,1 @@
+import{MAIN_BET_CONFIG_COMMON as e}from"./4d974cecc9.js";import{defineMultiImplementedFeature as n,Platforms as o}from"./entry-54bb1b8f4b.js";const i={...e},m={defineEntityImplementation:t=>t};n("MainBetConfigDesktop",!0,[o.Desktop]);const p=m.defineEntityImplementation(()=>({config:i}));export{p as default};

@@ -1,0 +1,1 @@
+import{REGISTRATION_FIELD_REF_CODE_CONFIG_COMMON as i}from"./33b4f36e8c.js";import{defineMultiImplementedFeature as o,Platforms as e}from"./entry-18d4d8570c.js";const n={defineEntityImplementation:t=>t};o("RegistrationFieldRefCodeConfig",!0,[e.Desktop,e.Mobile]);const r=n.defineEntityImplementation(()=>i);export{r as default};

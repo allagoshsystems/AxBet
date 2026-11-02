@@ -1,0 +1,1 @@
+import{sizeType as e,themeType as o}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const t={isShowHoverAnimation:!0,isShowBtnCustomTheme:!1,isUiButtonUserStrong:!1,uiButtonUserIconSize:e.m,uiBadgeTheme:o.accent,uiBadgeSize:e.m,isShowArrow:!1};export{t as USER_BONUS_DROPDOWN_CONFIG_DEFAULT};

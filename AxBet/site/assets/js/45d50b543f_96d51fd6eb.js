@@ -1,0 +1,1 @@
+import{SPORTS_MENU_APP_CONFIG_COMMON as e}from"./d09b453a6a.js";import{defineMultiImplementedFeature as n,Platforms as o}from"./entry-4d5baf0eaf.js";const p={defineEntityImplementation:t=>t};n("SportsMenuAppConfigDesktop",!0,[o.Desktop]);const f=p.defineEntityImplementation(()=>({config:e}));export{f as default};

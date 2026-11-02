@@ -1,0 +1,1 @@
+import{iconName as e}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";import{defineMultiImplementedFeature as o,Platforms as n}from"./entry-4d5baf0eaf.js";const m={homeIcon:e.HOME,champIcon:e.CHAMP},i={defineEntityImplementation:t=>t};o("BreadcrumbsAppConfigDesktop",!0,[n.Desktop]);const a=i.defineEntityImplementation(()=>({config:m}));export{a as default};

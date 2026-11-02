@@ -1,0 +1,1 @@
+import{BETTING_LEFT_ASIDE_TEMPLATE_CONFIG_COMMON as t}from"./936442f38b.js";import{defineMultiImplementedFeature as i,Platforms as n}from"./entry-4d5baf0eaf.js";const o={defineEntityImplementation:e=>e};i("BettingLeftAsideTemplateConfigDesktop",!0,[n.Desktop]);const p=o.defineEntityImplementation(()=>({config:t}));export{p as default};

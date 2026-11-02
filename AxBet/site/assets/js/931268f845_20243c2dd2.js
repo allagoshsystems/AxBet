@@ -1,0 +1,1 @@
+import{CHAMP_RESULTS_CONFIG_COMMON as e}from"./d5a4b75219.js";import{defineMultiImplementedFeature as n,Platforms as o}from"./entry-4d5baf0eaf.js";const i={defineEntityImplementation:t=>t};n("ChampResultsConfigDesktop",!0,[o.Desktop]);const p=i.defineEntityImplementation(()=>({config:e}));export{p as default};

@@ -1,0 +1,1 @@
+export default ()=>window._APP='__THIRD_PARTY_PROMOTION__'

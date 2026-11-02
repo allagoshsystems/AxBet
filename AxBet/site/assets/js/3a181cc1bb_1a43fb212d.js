@@ -1,0 +1,1 @@
+import{TOP_EVENTS_CONFIG_COMMON as n,TOP_EVENTS_CONFIG_PERSONALIZED_COMMON as o}from"./c9aeaa533e.js";import{defineMultiImplementedFeature as i,Platforms as e}from"./entry-4d5baf0eaf.js";const E={defineEntityImplementation:t=>t};i("TopEventsConfig",!0,[e.Mobile,e.Desktop]);const s=E.defineEntityImplementation(()=>({topEvents:n,topEventsPersonalized:o}));export{s as default};

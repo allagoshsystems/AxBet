@@ -1,0 +1,1 @@
+import{sizeType as e,ImagesSizeType as o}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const t={uiToggleFavoriteButtonSize:e.m,uiIcoTeamBoxSize:o.S16};export{t as SPORTS_EVENT_CONFIG_COMMON};

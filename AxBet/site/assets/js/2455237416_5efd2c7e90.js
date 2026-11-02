@@ -1,0 +1,1 @@
+import{MATCH_TAB_FILTER_CONFIG_COMMON as e}from"./7a243a7e81.js";import{defineMultiImplementedFeature as i,Platforms as n}from"./entry-4d5baf0eaf.js";const o={defineEntityImplementation:t=>t};i("MatchTabFilterConfig",!0,[n.Desktop]);const f=o.defineEntityImplementation(()=>({config:e}));export{f as default};

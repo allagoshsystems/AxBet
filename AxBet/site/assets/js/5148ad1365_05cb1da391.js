@@ -1,0 +1,1 @@
+import{MAIN_DEFAULT_LAYOUT_THEMES as o}from"./d16567dd8f.js";import{defineMultiImplementedFeature as m,Platforms as e}from"./entry-cee1e86922.js";const n={defineEntityImplementation:t=>t};m("DefaultLayoutThemes",!0,[e.Desktop,e.Mobile]);const f=n.defineEntityImplementation(()=>o);export{f as default};

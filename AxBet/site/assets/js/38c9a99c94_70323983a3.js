@@ -1,0 +1,1 @@
+import{BETTING_LAYOUT_APP_CONFIG_COMMON as e,defineMultiImplementedFeature as n,Platforms as o}from"./entry-4d5baf0eaf.js";const i={defineEntityImplementation:t=>t};n("BettingLayoutAppConfigDesktop",!0,[o.Desktop]);const f=i.defineEntityImplementation(()=>({config:e}));export{f as default};

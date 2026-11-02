@@ -1,0 +1,1 @@
+import{themeType as e,sizeType as t}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const i={bettingLeftAsideTemplateTheme:e.primary_40,bettingLeftAsideTemplateSize:t.m};export{i as BETTING_LEFT_ASIDE_TEMPLATE_CONFIG_COMMON};

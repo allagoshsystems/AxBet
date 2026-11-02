@@ -1,0 +1,1 @@
+import{BettingPageType as e}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const t=new Map([[e.MARBLE,"menu_section_marble_live"],[e.LONG_TERM_BETS,"menu_section_long"]]);export{t as SportMenuSectionTitleMap};

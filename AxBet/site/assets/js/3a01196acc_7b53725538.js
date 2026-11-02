@@ -1,0 +1,1 @@
+import{DEFAULT_FOOTER_GRID_SIZE_CONFIG as t,defineMultiImplementedFeature as i,Platforms as o}from"./entry-cee1e86922.js";const n={defineEntityImplementation:e=>e};i("FooterGridSizeConfig",!0,[o.Desktop]);const m=n.defineEntityImplementation(()=>t);export{m as default};

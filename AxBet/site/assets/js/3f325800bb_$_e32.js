@@ -1,0 +1,1 @@
+export default ()=>window._APP='__BANNERS_CLIENT__'

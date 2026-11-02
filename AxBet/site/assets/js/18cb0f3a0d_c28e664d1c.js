@@ -1,0 +1,1 @@
+import{themeType as r}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const o={header:"",footerAction:r.primary,footerComponent:r.primary_20,seoModule:r.primary_20,footer:r.thirdPartyGray,isSeoModuleComponent:!0,isFooterPartnersVisible:!1,isUnstretchable:!0,overlayContainer:r.thirdPartyGray_100};export{o as MAIN_THIRD_PARTY_LAYOUT_THEMES};

@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as n,Platforms as t}from"./entry-18d4d8570c.js";const o={},i={defineEntityImplementation:e=>e};n("RegistrationLayoutCustomVariantCConfig",!0,[t.Desktop,t.Mobile]);const m=i.defineEntityImplementation(()=>({style:o}));export{m as default};

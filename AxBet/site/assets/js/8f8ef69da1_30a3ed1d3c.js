@@ -1,0 +1,1 @@
+import{defaultDesktopAppsNoticeSettings as e}from"./4b64600f28.js";import{defineMultiImplementedFeature as o,Platforms as i}from"./86b157a5b2.js";const p={defineEntityImplementation:t=>t};o("useDesktopAppsNoticeSettings",!0,[i.Desktop]);const m=p.defineEntityImplementation(()=>e);export{m as default};

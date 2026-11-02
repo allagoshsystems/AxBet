@@ -1,0 +1,1 @@
+export default ()=>window._APP='__RESULTS_FRONTEND__'

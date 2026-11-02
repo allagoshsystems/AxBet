@@ -1,0 +1,1 @@
+export default ()=>window._APP='__NUXT_THIRD_PARTY__'

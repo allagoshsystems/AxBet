@@ -1,0 +1,1 @@
+import{REGISTRATION_FIELD_PHONE_CONFIRMATION_CONFIG_COMMON as i}from"./23e9172267.js";import{defineMultiImplementedFeature as n,Platforms as e}from"./entry-18d4d8570c.js";const o={defineEntityImplementation:t=>t};n("RegistrationFieldPhoneConfirmationConfig",!0,[e.Desktop,e.Mobile]);const f=o.defineEntityImplementation(()=>i);export{f as default};

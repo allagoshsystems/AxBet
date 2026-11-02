@@ -1,0 +1,1 @@
+export default ()=>window._APP='__V3_HOST_APP__'

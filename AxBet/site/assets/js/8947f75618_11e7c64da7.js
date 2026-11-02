@@ -1,0 +1,1 @@
+import{CENTRAL_MENU_CONFIG as t}from"./e7dfc49db8.js";import{defineMultiImplementedFeature as n,Platforms as o}from"./entry-4d5baf0eaf.js";const i={defineEntityImplementation:e=>e};n("CentralMenuConfig",!0,[o.Desktop]);const r=i.defineEntityImplementation(()=>({config:t}));export{r as default};

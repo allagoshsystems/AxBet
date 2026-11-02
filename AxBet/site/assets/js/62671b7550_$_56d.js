@@ -1,0 +1,1 @@
+export default ()=>window._APP='__GAMES_APP__'

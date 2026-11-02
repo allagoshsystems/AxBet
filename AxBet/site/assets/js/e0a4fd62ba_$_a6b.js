@@ -1,0 +1,1 @@
+export default ()=>window._APP='__LOYALTY_PROGRAM_APP__'

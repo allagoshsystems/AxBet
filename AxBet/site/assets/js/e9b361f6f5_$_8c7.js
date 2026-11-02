@@ -1,0 +1,1 @@
+export default ()=>window._APP='__PROMOTIONS_AND_BONUSES__'

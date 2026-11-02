@@ -1,0 +1,1 @@
+import{MAIN_THIRD_PARTY_LAYOUT_THEMES as o}from"./c28e664d1c.js";import{defineMultiImplementedFeature as i,Platforms as e}from"./entry-cee1e86922.js";const m={defineEntityImplementation:t=>t};i("ThirdPartyLayoutThemes",!0,[e.Desktop,e.Mobile]);const T=m.defineEntityImplementation(()=>o);export{T as default};

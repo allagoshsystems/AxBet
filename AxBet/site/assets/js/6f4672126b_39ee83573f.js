@@ -1,0 +1,1 @@
+import{DEFAULT_HEADER_DOUBLE_ROW_NAVBAR_CONFIG as t,defineMultiImplementedFeature as n,Platforms as o}from"./entry-cee1e86922.js";const a={"--header-navigation-margin-left":"0"},i={defineEntityImplementation:e=>e};n("HeaderDoubleRowNavbarConfig",!0,[o.Desktop]);const _=i.defineEntityImplementation(()=>({config:t,style:a}));export{_ as default};

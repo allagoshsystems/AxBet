@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as t,Platforms as e}from"./entry-4d5baf0eaf.js";const i={highRankingTournamentsCardHasLight:!0},o={defineEntityImplementation:n=>n};t("HighRankingTournamentsCardConfigDesktop",!0,[e.Desktop]);const r=o.defineEntityImplementation(()=>({config:i}));export{r as default};

@@ -1,0 +1,1 @@
+import{iconLogos as o}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";import{OSTypes as e}from"./entry-cc59b6e990.js";const O=Object.freeze({[e.ANDROID]:o.ANDROID,[e.IOS]:o.APPLE});export{O as defaultIconByOsType};

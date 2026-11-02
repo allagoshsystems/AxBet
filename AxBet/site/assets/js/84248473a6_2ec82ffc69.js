@@ -1,0 +1,1 @@
+import{REGISTRATION_FIELD_CHECKBOX_CONFIG_COMMON as i,defineMultiImplementedFeature as n,Platforms as e}from"./entry-18d4d8570c.js";const o={defineEntityImplementation:t=>t};n("RegistrationFieldCheckboxConfig",!0,[e.Desktop,e.Mobile]);const l=o.defineEntityImplementation(()=>i);export{l as default};

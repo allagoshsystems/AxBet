@@ -1,0 +1,1 @@
+import{DEFAULT_HEADER_DESKTOP_DOUBLE_ROW_CONFIG as t}from"./6a7087c0a6.js";import{defineMultiImplementedFeature as o,Platforms as n}from"./entry-cee1e86922.js";const i={defineEntityImplementation:e=>e};o("HeaderDesktopDoubleRowConfig",!0,[n.Desktop]);const r=i.defineEntityImplementation(()=>({config:t}));export{r as default};

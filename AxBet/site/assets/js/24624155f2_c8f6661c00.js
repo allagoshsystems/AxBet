@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as n,Platforms as t}from"./entry-18d4d8570c.js";const i={hasFloatingLabel:!0},o={defineEntityImplementation:e=>e};n("RegistrationFieldInputConfig",!0,[t.Desktop,t.Mobile]);const a=o.defineEntityImplementation(()=>i);export{a as default};

@@ -1,0 +1,1 @@
+import{DEFAULT_HEADER_NAVIGATION_LIST_DESKTOP_CONFIG as t,defineMultiImplementedFeature as i,Platforms as n}from"./entry-cee1e86922.js";const o={defineEntityImplementation:e=>e};i("HeaderNavigationListDesktopConfig",!0,[n.Desktop]);const s=o.defineEntityImplementation(()=>({config:t,style:{}}));export{s as default};

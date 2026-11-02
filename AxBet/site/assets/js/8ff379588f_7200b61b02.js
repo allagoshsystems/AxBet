@@ -1,0 +1,1 @@
+import{RIGHT_SIDE_CONFIG_COMMON as t}from"./10ee3b4134.js";import{defineMultiImplementedFeature as i,Platforms as o}from"./entry-4d5baf0eaf.js";const n={defineEntityImplementation:e=>e};i("RightSideConfigDesktop",!0,[o.Desktop]);const d=n.defineEntityImplementation(()=>({config:{...t,showRightSideGameWidget:!0}}));export{d as default};

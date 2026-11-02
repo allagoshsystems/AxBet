@@ -1,0 +1,557 @@
+
+/* ==========================================================================
+   AXBET Custom Dark Yellow & Black Theme
+   ========================================================================== */
+
+:root {
+  --ax-yellow-primary: #FFC107 !important;
+  --ax-yellow-dark: #FFB300 !important;
+  --ax-yellow-deep: #FFA000 !important;
+  --ax-yellow-light: #FFD54F !important;
+  --ax-bg-black: #0B0E14 !important;
+  --ax-bg-dark: #121620 !important;
+  --ax-bg-card: #181D28 !important;
+  --ax-border: #262D3D !important;
+}
+
+/* Header & Navigation Bar */
+.header,
+header,
+[data-v-51befe1d].header,
+.header-top,
+.header-middle,
+.header__content {
+  background-color: #0d1017 !important;
+  border-bottom: 2px solid #FFC107 !important;
+}
+
+/* Main Navigation Bar */
+.header-navigation,
+.header-navigation-list,
+.header-double-row-navbar {
+  background-color: #121622 !important;
+}
+
+/* Active navigation item / selected tabs */
+.header-navigation-list__item--active,
+.header-navigation-list__link--active,
+.router-link-active,
+.router-link-exact-active {
+  color: #FFC107 !important;
+}
+
+/* Top bar buttons (Registration, Login) */
+.user-control-btn--registration,
+.btn--registration,
+a[href*="registration"] {
+  background-color: #FFC107 !important;
+  color: #000000 !important;
+  font-weight: bold !important;
+  border-color: #FFC107 !important;
+}
+
+.user-control-btn--registration:hover,
+.btn--registration:hover,
+a[href*="registration"]:hover {
+  background-color: #FFA000 !important;
+  color: #000000 !important;
+}
+
+.user-control-btn--login,
+.btn--login,
+a[href*="login"] {
+  background-color: transparent !important;
+  color: #FFC107 !important;
+  border: 1px solid #FFC107 !important;
+  font-weight: bold !important;
+}
+
+/* Sports / Live Category sidebars & tabs */
+.sports-menu,
+.live-menu,
+.top-events,
+.dashboard,
+.left-menu {
+  background-color: #10141d !important;
+}
+
+/* Odds Buttons & Betslip */
+.coupon-item,
+.bet-box,
+.bet-btn,
+.c-bets__item,
+.bets__item {
+  background-color: #161c28 !important;
+  border-color: #242c3d !important;
+}
+
+.c-bets__item:hover,
+.bets__item:hover,
+.c-bets__item--active,
+.bets__item--active {
+  background-color: #FFC107 !important;
+  color: #000000 !important;
+}
+
+.c-bets__item:hover *,
+.bets__item:hover * {
+  color: #000000 !important;
+}
+
+/* Primary text & link highlights */
+a:hover {
+  color: #FFC107 !important;
+}
+
+/* Live score indicators / accents */
+.live-indicator,
+.accent-color,
+.badge--accent {
+  background-color: #FFC107 !important;
+  color: #000000 !important;
+}
+
+/* Footer styling */
+footer,
+.footer {
+  background-color: #0a0c12 !important;
+  border-top: 1px solid #222836 !important;
+}
+
+/* ==========================================================================
+   AXBET Firebase Auth & Cashier Modals (Black & Yellow Theme)
+   ========================================================================== */
+
+.ax-y { color: #FFC107; font-weight: 900; }
+.ax-w { color: #FFFFFF; font-weight: 900; }
+
+/* Backdrop */
+.axbet-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(4px);
+  z-index: 99998;
+}
+
+/* Modals */
+.axbet-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+.axbet-modal-box {
+  background: #121620;
+  border: 1px solid #2a3346;
+  border-top: 3px solid #FFC107;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 440px;
+  padding: 32px 28px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.8);
+  position: relative;
+  color: #FFFFFF;
+  animation: axbetFadeIn 0.2s ease-out;
+}
+
+.axbet-modal-wide {
+  max-width: 540px;
+}
+
+@keyframes axbetFadeIn {
+  from { opacity: 0; transform: translateY(-10px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.axbet-modal-close {
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  background: transparent;
+  border: none;
+  color: #8E9BAE;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.axbet-modal-close:hover {
+  color: #FFC107;
+}
+
+.axbet-modal-header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.axbet-modal-logo {
+  font-size: 24px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+
+.axbet-modal-header h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 6px 0;
+  color: #FFFFFF;
+}
+
+.axbet-modal-header p {
+  font-size: 13px;
+  color: #929EAF;
+  margin: 0;
+}
+
+/* Form inputs */
+.axbet-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.axbet-input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.axbet-input-group label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #C0C8D4;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.axbet-input-group input,
+.axbet-select {
+  background: #1A1F2C;
+  border: 1px solid #2C3549;
+  border-radius: 6px;
+  padding: 11px 14px;
+  color: #FFFFFF;
+  font-size: 14px;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  outline: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.axbet-input-group input:focus,
+.axbet-select:focus {
+  border-color: #FFC107;
+  box-shadow: 0 0 0 2px rgba(255, 193, 7, 0.2);
+}
+
+/* Buttons */
+.axbet-btn-primary {
+  background: #FFC107;
+  color: #000000;
+  border: none;
+  border-radius: 6px;
+  padding: 13px 20px;
+  font-size: 14px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+  margin-top: 8px;
+  width: 100%;
+}
+
+.axbet-btn-primary:hover {
+  background: #FFA000;
+}
+
+.axbet-btn-primary:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.axbet-btn-outline {
+  background: transparent;
+  color: #FFC107;
+  border: 1px solid #FFC107;
+  border-radius: 6px;
+  padding: 10px 16px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.axbet-modal-switch {
+  text-align: center;
+  font-size: 13px;
+  color: #8E9BAE;
+  margin-top: 10px;
+}
+
+.axbet-modal-switch a {
+  color: #FFC107;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+/* Alerts */
+.axbet-alert-error {
+  background: rgba(239, 68, 68, 0.15);
+  border: 1px solid #EF4444;
+  color: #FCA5A5;
+  border-radius: 6px;
+  padding: 10px 14px;
+  font-size: 13px;
+}
+
+.axbet-alert-success {
+  background: rgba(16, 185, 129, 0.15);
+  border: 1px solid #10B981;
+  color: #6EE7B7;
+  border-radius: 6px;
+  padding: 12px 14px;
+  font-size: 13px;
+}
+
+/* Payment Methods Grid */
+.axbet-method-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.axbet-method-card {
+  background: #181D2A;
+  border: 1px solid #2A3346;
+  border-radius: 6px;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.axbet-method-card.active,
+.axbet-method-card:hover {
+  border-color: #FFC107;
+  background: #202738;
+}
+
+.axbet-method-card input {
+  accent-color: #FFC107;
+}
+
+.axbet-method-card .method-name {
+  font-size: 13px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.axbet-bank-info {
+  background: #181E2C;
+  border-left: 3px solid #FFC107;
+  padding: 10px 14px;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #D1D5DB;
+}
+
+.axbet-bank-info p { margin: 0 0 4px 0; }
+.axbet-bank-info small { color: #9CA3AF; }
+
+/* Authenticated Player Bar (Header) */
+.axbet-player-bar {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 4px 12px;
+  background: #131722;
+  border: 1px solid #283042;
+  border-radius: 8px;
+  margin-right: 8px;
+}
+
+.axbet-player-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.axbet-player-meta {
+  display: flex;
+  flex-direction: column;
+}
+
+.axbet-player-email {
+  font-size: 12px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.axbet-player-id {
+  font-size: 11px;
+  color: #8E9BAE;
+}
+
+.axbet-player-balance {
+  background: #1B2130;
+  border: 1px solid #2F3950;
+  padding: 4px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: border-color 0.15s;
+}
+
+.axbet-player-balance:hover {
+  border-color: #FFC107;
+}
+
+.axbet-player-balance .bal-label {
+  font-size: 10px;
+  font-weight: 600;
+  color: #8E9BAE;
+}
+
+.axbet-player-balance strong {
+  font-size: 13px;
+  color: #FFC107;
+  font-weight: 800;
+}
+
+.axbet-player-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.axbet-bar-btn {
+  border: none;
+  border-radius: 5px;
+  padding: 6px 12px;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.axbet-bar-deposit {
+  background: #FFC107;
+  color: #000000;
+}
+
+.axbet-bar-deposit:hover {
+  background: #FFA000;
+}
+
+.axbet-bar-withdraw {
+  background: transparent;
+  color: #FFC107;
+  border: 1px solid #FFC107;
+}
+
+.axbet-bar-withdraw:hover {
+  background: #FFC107;
+  color: #000000;
+}
+
+.axbet-bar-logout {
+  background: #232B3C;
+  color: #9BA7B9;
+}
+
+.axbet-bar-logout:hover {
+  background: #343E54;
+  color: #FFFFFF;
+}
+
+/* User Card Widget on page when signed in */
+.axbet-user-card-widget {
+  background: #141824;
+  border: 1px solid #283042;
+  border-top: 3px solid #FFC107;
+  border-radius: 8px;
+  padding: 20px;
+  color: #FFFFFF;
+}
+
+.axbet-card-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.axbet-user-avatar {
+  width: 44px;
+  height: 44px;
+  background: #22293C;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  border: 2px solid #FFC107;
+}
+
+.axbet-card-header h3 {
+  font-size: 14px;
+  margin: 0 0 2px 0;
+  color: #FFFFFF;
+}
+
+.axbet-id-badge {
+  font-size: 11px;
+  background: #232B3C;
+  color: #FFC107;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 700;
+}
+
+.axbet-balance-display {
+  background: #0E121B;
+  border: 1px solid #202738;
+  border-radius: 6px;
+  padding: 12px;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.axbet-balance-display label {
+  font-size: 10px;
+  font-weight: 700;
+  color: #8E9BAE;
+  letter-spacing: 1px;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.axbet-balance-display .balance-num {
+  font-size: 22px;
+  font-weight: 900;
+  color: #FFC107;
+}
+
+.axbet-balance-display .cur {
+  font-size: 14px;
+  color: #FFFFFF;
+}
+
+.axbet-card-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}

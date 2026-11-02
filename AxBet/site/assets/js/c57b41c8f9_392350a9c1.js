@@ -1,0 +1,1 @@
+import{defineProvider as e}from"./entry-4d5baf0eaf.js";import{SPORTS_MENU_APP_CONFIG_COMMON as p}from"./d09b453a6a.js";const{provide:i,inject:f}=e(({sportsMenuAppConfig:o,sportsMenuAppStyles:r})=>({sportsMenuAppConfig:o,sportsMenuAppStyles:r}),{sportsMenuAppConfig:p});export{i as createSportsMenuAppConfig,f as useSportsMenuAppConfig};

@@ -1,0 +1,1 @@
+import{defineMultiImplementedFeature as t,Platforms as n}from"./entry-4d5baf0eaf.js";const o={defineEntityImplementation:e=>e};t("UiGameScoresConfigDesktop",!0,[n.Desktop]);const m=o.defineEntityImplementation(()=>({}));export{m as default};

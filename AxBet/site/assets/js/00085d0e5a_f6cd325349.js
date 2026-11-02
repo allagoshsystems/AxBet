@@ -1,0 +1,1 @@
+import{themeType as t}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";import{defineMultiImplementedFeature as n,Platforms as o}from"./entry-4d5baf0eaf.js";const i={uiInputSelectTheme:t.gray100},m={defineEntityImplementation:e=>e};n("CountryFilterSelectConfigDesktop",!0,[o.Desktop]);const f=m.defineEntityImplementation(()=>({config:i}));export{f as default};

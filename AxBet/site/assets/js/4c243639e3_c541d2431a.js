@@ -1,0 +1,1 @@
+import{themeType as t,defaultSizeType as e}from"../../../shared-assets/Desktop/__shared_base-app_c69ef01e26.js";const u={uiButtonTheme:t.primary,uiButtonUppercase:!0,uiButtonSize:e,uiCaptionSize:e,hasAuthDropdownTriggerOutline:!1};export{u as AUTH_DROPDOWN_TRIGGER_CONFIG};

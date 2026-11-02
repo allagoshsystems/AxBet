@@ -1,0 +1,1 @@
+import{DEFAULT_HEADER_TOP_CONFIG as t,DEFAULT_HEADER_TOP_STYLE as n,defineMultiImplementedFeature as o,Platforms as i}from"./entry-cee1e86922.js";const T={defineEntityImplementation:e=>e};o("HeaderTopConfig",!0,[i.Desktop]);const m=T.defineEntityImplementation(()=>({config:t,style:n}));export{m as default};

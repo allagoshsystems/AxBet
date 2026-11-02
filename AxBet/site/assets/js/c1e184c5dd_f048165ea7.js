@@ -1,0 +1,1 @@
+import{USER_CONTROL_CONFIG_DEFAULT as e}from"./05c2d17893.js";import{defineMultiImplementedFeature as o,Platforms as n}from"./entry-cee1e86922.js";const i={defineEntityImplementation:t=>t};o("UserControlConfig",!0,[n.Desktop]);const f=i.defineEntityImplementation(()=>({config:e}));export{f as default};

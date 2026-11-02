@@ -1,0 +1,1 @@
+import{DEFAULT_LAYOUT_CONTENT_CONFIG as e,defineMultiImplementedFeature as n,Platforms as o}from"./entry-cee1e86922.js";const i={defineEntityImplementation:t=>t};n("LayoutContentConfig",!0,[o.Desktop]);const m=i.defineEntityImplementation(()=>({config:e}));export{m as default};

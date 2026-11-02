@@ -1,0 +1,1 @@
+import{REGISTRATION_FIELD_PHONE_MEGA_ACTION_COMMON as t}from"./36b408f0f8.js";import{defineMultiImplementedFeature as i,Platforms as n}from"./entry-18d4d8570c.js";const o={defineEntityImplementation:e=>e};i("RegistrationFieldPhoneMegaActionConfigDesktop",!0,[n.Desktop]);const r=o.defineEntityImplementation(()=>t);export{r as default};

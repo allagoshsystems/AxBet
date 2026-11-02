@@ -1,0 +1,302 @@
+[START] 1xBet Cloner v2 — Network Interception Mode
+[DIR]   c:\Users\Mashariq Ali\Desktop\1XBET TEMPLATE\site
+[URL]   https://1xbetpk.mobi  (IP: 185.174.42.40)
+------------------------------------------------------------
+
+[1/60] https://1xbetpk.mobi
+  [HTML]   1,975,641 bytes
+  [ASSETS] 780 captured from network
+  [LINKS]  479 found, 423 queued | queue=445
+  [SAVED]  en.html
+
+[2/60] https://1xbetpk.mobi/en/live
+  [HTML]   2,009,969 bytes
+  [ASSETS] 703 captured from network
+  [LINKS]  510 found, 443 queued | queue=886
+  [SAVED]  en\live.html
+
+[3/60] https://1xbetpk.mobi/en/sport
+  [SKIP] HTTP 404
+
+[3/60] https://1xbetpk.mobi/en/sport/football
+  [SKIP] HTTP 404
+
+[3/60] https://1xbetpk.mobi/en/sport/basketball
+  [SKIP] HTTP 404
+
+[3/60] https://1xbetpk.mobi/en/sport/tennis
+  [SKIP] HTTP 404
+
+[3/60] https://1xbetpk.mobi/en/sport/volleyball
+  [SKIP] HTTP 404
+
+[3/60] https://1xbetpk.mobi/en/sport/ice-hockey
+  [SKIP] HTTP 404
+
+[3/60] https://1xbetpk.mobi/en/sport/boxing
+  [SKIP] HTTP 404
+
+[3/60] https://1xbetpk.mobi/en/casino
+  [HTML]   751,291 bytes
+  [ASSETS] 530 captured from network
+  [LINKS]  278 found, 218 queued | queue=1096
+  [SAVED]  en\casino.html
+
+[4/60] https://1xbetpk.mobi/en/slots
+  [HTML]   872,919 bytes
+  [ASSETS] 586 captured from network
+  [LINKS]  212 found, 196 queued | queue=1291
+  [SAVED]  en\slots.html
+
+[5/60] https://1xbetpk.mobi/en/live-casino
+  [SKIP] HTTP 404
+
+[5/60] https://1xbetpk.mobi/en/virtual-sports
+  [SKIP] HTTP 404
+
+[5/60] https://1xbetpk.mobi/en/poker
+  [HTML]   356,808 bytes
+  [ASSETS] 449 captured from network
+  [LINKS]  212 found, 151 queued | queue=1439
+
+[RESUME] 1xBet Cloner v3 — Full Static Mirror
+[DIR]    c:\Users\Mashariq Ali\Desktop\1XBET TEMPLATE\site
+[URL]    https://1xbetpk.mobi  (IP: 185.174.42.40)
+------------------------------------------------------------
+  [FOUND EXISTING] en.html
+  [FOUND EXISTING] en/casino.html
+  [FOUND EXISTING] en/live.html
+  [FOUND EXISTING] en/slots.html
+
+[5/40] https://1xbetpk.mobi/en/line
+  [HTML]   346,804 bytes
+  [ASSETS] 233 captured from network
+  [LINKS]  214 found, 155 queued | queue=175
+  [SAVED]  en\line.html
+
+[6/40] https://1xbetpk.mobi/en/line/football
+  [HTML]   624,733 bytes
+  [ASSETS] 575 captured from network
+  [LINKS]  259 found, 188 queued | queue=362
+  [SAVED]  en\line\football.html
+
+[7/40] https://1xbetpk.mobi/en/line/cricket
+  [HTML]   456,968 bytes
+  [ASSETS] 536 captured from network
+  [LINKS]  147 found, 126 queued | queue=487
+  [SAVED]  en\line\cricket.html
+
+[8/40] https://1xbetpk.mobi/en/line/basketball
+  [HTML]   1,614,253 bytes
+  [ASSETS] 704 captured from network
+  [LINKS]  457 found, 378 queued | queue=864
+  [SAVED]  en\line\basketball.html
+
+[9/40] https://1xbetpk.mobi/en/line/tennis
+  [HTML]   1,541,188 bytes
+  [ASSETS] 708 captured from network
+  [LINKS]  304 found, 274 queued | queue=1137
+  [SAVED]  en\line\tennis.html
+
+[10/40] https://1xbetpk.mobi/en/live/football
+  [HTML]   2,102,050 bytes
+  [ASSETS] 695 captured from network
+  [LINKS]  424 found, 400 queued | queue=1536
+  [SAVED]  en\live\football.html
+
+[11/40] https://1xbetpk.mobi/en/live/cricket
+  [HTML]   409,243 bytes
+  [ASSETS] 148 captured from network
+  [LINKS]  172 found, 99 queued | queue=1634
+  [SAVED]  en\live\cricket.html
+
+[12/40] https://1xbetpk.mobi/en/games
+  [HTML]   187,064 bytes
+  [ASSETS] 55 captured from network
+  [LINKS]  269 found, 176 queued | queue=1809
+  [SAVED]  en\games.html
+
+[13/40] https://1xbetpk.mobi/en/poker
+  [HTML]   235,438 bytes
+  [ASSETS] 406 captured from network
+  [LINKS]  176 found, 104 queued | queue=1912
+  [SAVED]  en\poker.html
+
+[14/40] https://1xbetpk.mobi/en/bingo
+  [HTML]   440,079 bytes
+  [ASSETS] 450 captured from network
+  [LINKS]  212 found, 137 queued | queue=2048
+  [SAVED]  en\bingo.html
+
+[15/40] https://1xbetpk.mobi/en/esports/real
+  [HTML]   647,085 bytes
+  [ASSETS] 256 captured from network
+  [LINKS]  306 found, 225 queued | queue=2272
+  [SAVED]  en\esports\real.html
+
+[16/40] https://1xbetpk.mobi/en/desktop
+  [HTML]   224,079 bytes
+  [ASSETS] 275 captured from network
+  [LINKS]  164 found, 81 queued | queue=2352
+  [SAVED]  en\desktop.html
+
+[17/40] https://1xbetpk.mobi/en/bonus/rules
+  [HTML]   447,823 bytes
+  [ASSETS] 296 captured from network
+  [LINKS]  335 found, 253 queued | queue=2604
+  [SAVED]  en\bonus\rules.html
+
+[18/40] https://1xbetpk.mobi/en/information/about
+  [HTML]   197,917 bytes
+  [ASSETS] 263 captured from network
+  [LINKS]  161 found, 79 queued | queue=2682
+  [SAVED]  en\information\about.html
+
+[19/40] https://1xbetpk.mobi/en/information/contacts
+  [HTML]   200,492 bytes
+  [ASSETS] 242 captured from network
+  [LINKS]  183 found, 83 queued | queue=2764
+  [SAVED]  en\information\contacts.html
+
+[20/40] https://1xbetpk.mobi/en/information/payment
+  [HTML]   286,526 bytes
+  [ASSETS] 258 captured from network
+  [LINKS]  168 found, 80 queued | queue=2843
+  [SAVED]  en\information\payment.html
+
+[21/40] https://1xbetpk.mobi/en/information/rules
+  [HTML]   396,410 bytes
+  [ASSETS] 242 captured from network
+  [LINKS]  169 found, 79 queued | queue=2921
+  [SAVED]  en\information\rules\1.html
+
+[22/40] https://1xbetpk.mobi/en/information/rules/privacy_policy
+  [HTML]   429,791 bytes
+  [ASSETS] 242 captured from network
+  [LINKS]  174 found, 78 queued | queue=2998
+  [SAVED]  en\information\rules\privacy_policy.html
+
+[23/40] https://1xbetpk.mobi/en/information/cookies
+  [HTML]   492,337 bytes
+  [ASSETS] 236 captured from network
+  [LINKS]  172 found, 74 queued | queue=3071
+  [SAVED]  en\information\cookies.html
+
+[24/40] https://1xbetpk.mobi/en/champs
+  [HTML]   826,212 bytes
+  [ASSETS] 429 captured from network
+  [LINKS]  165 found, 73 queued | queue=3143
+  [SAVED]  en\champs.html
+
+[25/40] https://1xbetpk.mobi/en/fast-bet
+  [HTML]   175,774 bytes
+  [ASSETS] 277 captured from network
+  [LINKS]  163 found, 72 queued | queue=3214
+  [SAVED]  en\fast-bet.html
+
+[26/40] https://1xbetpk.mobi/en/registration
+  [HTML]   198,794 bytes
+  [ASSETS] 203 captured from network
+  [LINKS]  128 found, 47 queued | queue=3259
+  [SAVED]  en\registration.html
+
+[27/40] https://1xbetpk.mobi/en/top-events/champions
+  [HTML]   1,179,784 bytes
+  [ASSETS] 503 captured from network
+  [LINKS]  169 found, 73 queued | queue=3331
+  [SAVED]  en\top-events\champions.html
+
+[28/40] https://1xbetpk.mobi/en/top-events/la-liga
+  [HTML]   880,052 bytes
+  [ASSETS] 447 captured from network
+  [LINKS]  167 found, 70 queued | queue=3399
+  [SAVED]  en\top-events\la-liga.html
+
+[29/40] https://1xbetpk.mobi/en/top-events/serie-a
+  [HTML]   943,741 bytes
+  [ASSETS] 456 captured from network
+  [LINKS]  169 found, 71 queued | queue=3469
+  [SAVED]  en\top-events\serie-a.html
+
+[30/40] https://1xbetpk.mobi/en/top-events/uecl
+  [HTML]   612,027 bytes
+  [ASSETS] 432 captured from network
+  [LINKS]  176 found, 77 queued | queue=3545
+  [SAVED]  en\top-events\uecl.html
+
+[31/40] https://1xbetpk.mobi/en/top-events/worlds
+  [HTML]   452,001 bytes
+  [ASSETS] 383 captured from network
+  [LINKS]  163 found, 63 queued | queue=3607
+  [SAVED]  en\top-events\worlds.html
+
+[32/40] https://1xbetpk.mobi/en/top-sports/cricket
+  [HTML]   787,754 bytes
+  [ASSETS] 571 captured from network
+  [LINKS]  233 found, 129 queued | queue=3735
+  [SAVED]  en\top-sports\cricket.html
+
+[33/40] https://1xbetpk.mobi/en/ufc
+  [HTML]   669,520 bytes
+  [ASSETS] 558 captured from network
+  [LINKS]  141 found, 90 queued | queue=3824
+  [SAVED]  en\ufc.html
+
+[34/40] https://1xbetpk.mobi/en/betsonyour/line
+  [HTML]   466,729 bytes
+  [ASSETS] 595 captured from network
+  [LINKS]  185 found, 78 queued | queue=3901
+  [SAVED]  en\betsonyour\line.html
+
+[35/40] https://1xbetpk.mobi/en/long-term-bets/line/long
+  [HTML]   1,201,268 bytes
+  [ASSETS] 586 captured from network
+  [LINKS]  345 found, 238 queued | queue=4137
+  [SAVED]  en\long-term-bets\line\long.html
+
+[36/40] https://1xbetpk.mobi/en/multi
+  [HTML]   368,123 bytes
+  [ASSETS] 538 captured from network
+  [LINKS]  178 found, 66 queued | queue=4202
+  [SAVED]  en\multi.html
+
+[37/40] https://1xbetpk.mobi/en/betsonyour/live
+  [HTML]   470,968 bytes
+  [ASSETS] 595 captured from network
+  [LINKS]  183 found, 72 queued | queue=4273
+  [SAVED]  en\betsonyour\live.html
+
+[38/40] https://1xbetpk.mobi/en/marble/live
+  [HTML]   1,144,593 bytes
+  [ASSETS] 666 captured from network
+  [LINKS]  209 found, 151 queued | queue=4423
+  [SAVED]  en\marble\live.html
+
+[39/40] https://1xbetpk.mobi/en/toto/fifteen
+  [HTML]   292,594 bytes
+  [ASSETS] 289 captured from network
+  [LINKS]  170 found, 57 queued | queue=4474
+  [SAVED]  en\toto\fifteen.html
+
+[40/40] https://1xbetpk.mobi/en/results
+  [HTML]   3,807,808 bytes
+  [ASSETS] 293 captured from network
+  [LINKS]  160 found, 46 queued | queue=4519
+  [SAVED]  en\results.html
+
+============================================================
+[LINKS] Rewriting internal navigation links in all HTML files...
+[INDEX] Copied en.html -> index.html (Root GitHub Pages entrypoint)
+[404]   Copied en.html -> 404.html (GitHub Pages fallback)
+
+============================================================
+[DONE] CLONE COMPLETE!
+  Pages scraped  : 40
+  HTML files     : 42
+  CSS files      : 382
+  JS files       : 732
+  Images         : 1451
+  Fonts          : 2
+  Total files    : 2720
+  Total size     : 70.9 MB
+  Sitemap saved  : site/sitemap.json

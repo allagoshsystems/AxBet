@@ -1,0 +1,1 @@
+import{defaultSettings as e}from"./078949021c.js";import{defineMultiImplementedFeature as n,Platforms as o}from"./86b157a5b2.js";const s={defineEntityImplementation:t=>t};n("useDesktopAppsInfoSettings",!0,[o.Desktop]);const m=s.defineEntityImplementation(()=>e);export{m as default};

@@ -1,0 +1,1 @@
+import{AUTH_DROPDOWN_TRIGGER_CONFIG as e}from"./c541d2431a.js";import{defineMultiImplementedFeature as o,Platforms as n}from"./entry-18d4d8570c.js";const i={defineEntityImplementation:t=>t};o("AuthDropdownTriggerConfigDesktop",!0,[n.Desktop]);const p=i.defineEntityImplementation(()=>({config:e}));export{p as default};
